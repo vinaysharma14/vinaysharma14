@@ -64,6 +64,34 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
   <br>
   <br>
 
+- **Tools**
+
+  - **Version Control & Issue Tracking**
+    <br>
+    <br>
+    [<img align="left" src=images/version-control/github.svg height=30>](https://github.com/)
+    [<img align="left" src=images/version-control/gitlab.svg height=30>](https://about.gitlab.com/)
+    [<img align="left" src=images/version-control/bitbucket.svg height=30>](https://bitbucket.org/)
+    <br>
+    <br>
+  - **Issue Tracking & Project Management**
+    <br>
+    <br>
+    [<img align="left" src=images/project-management/jira.svg height=30>](https://www.atlassian.com/software/jira)
+    [<img align="left" src=images/project-management/trello.svg height=30>](https://trello.com/)
+    [<img align="left" src=images/project-management/slack.svg height=30>](https://slack.com/)
+    [<img align="left" src=images/project-management/zeplin.svg height=30>](https://zeplin.io/)
+    [<img align="left" src=images/project-management/slides.svg height=30>](https://slides.com/vinaysharma7811)
+    <br>
+    <br>
+  - **Code Editor & Package Manager**
+    <br>
+    <br>
+    [<img align="left" src=images/tools/vs-code.svg height=30>](https://code.visualstudio.com/)
+    [<img align="left" src=images/tools/npm.svg height=30>](https://www.npmjs.com/)
+    <br>
+    <br>
+
 ### Tech Talks 🎙️
 
 - [Handling Complex Animations in React Native](https://www.youtube.com/watch?v=tD8vvCzVknE)
@@ -89,4 +117,4 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
 - Email: vinaysharma7811@gmail.com
 - GitHub: https://github.com/vinaysharma14
 - LinkedIn: https://www.linkedin.com/in/vinaysharma-/
-- Stack Overlow: https://stackoverflow.com/users/11220479/vinay-sharma?tab=profile
+- Stack Overflow: https://stackoverflow.com/users/11220479/vinay-sharma?tab=profile

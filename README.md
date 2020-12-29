@@ -50,6 +50,20 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
   <br>
   <br>
 
+- **Utils**
+  <br>
+  <br>
+  [<img align="left" src=images/utils/babel.svg height=30>](https://babeljs.io/)
+  [<img align="left" src=images/utils/webpack.svg height=30>](https://webpack.js.org/)
+  [<img align="left" src=images/utils/prettier.svg height=30>](https://prettier.io/)
+  [<img align="left" src=images/utils/eslint.svg height=30>](https://eslint.org/)
+  [<img align="left" src=images/utils/jest.svg height=30>](https://jestjs.io/)
+  [<img align="left" src=images/utils/lodash.svg height=30>](https://lodash.com/)
+  [<img align="left" src=images/utils/momentjs.svg height=30>](https://momentjs.com/)
+  [<img align="left" src=images/utils/terminal.svg height=30>](https://ohmyz.sh/)
+  <br>
+  <br>
+
 ### Tech Talks 🎙️
 
 - [Handling Complex Animations in React Native](https://www.youtube.com/watch?v=tD8vvCzVknE)

@@ -15,6 +15,13 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I'm an intermediate music producer on [FL Studio](https://www.image-line.com/)!
 
+### Most amazing thing I've built 🛠️
+[![Rapid React](https://github-readme-stats.vercel.app/api/pin/?username=vinaysharma14&repo=rapid-react&show_owner=true)](https://github.com/vinaysharma14/rapid-react)
+
+### GitHub Stats 📊
+![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=vinaysharma14&show_icons=true)
+![Vinay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaysharma14&layout=compact&hide=java)
+
 ### Get in touch 📫
 - Email: vinaysharma7811@gmail.com
 - GitHub: https://github.com/vinaysharma14

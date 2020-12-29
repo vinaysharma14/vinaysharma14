@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile applications. In addition to development I activley participate in activities such as speaking at tech meetups, open source contributions, mentoring junior developers & interviewing candidates. I have a knack for self learning and usually use Stack Overflow, read articles at Medium, HackerNoon, DEV.TO and HashNode for learning new things and solving technical challenges.
+I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile applications. In addition to development I actively participate in activities such as speaking at tech meetups, open source contributions, mentoring junior developers & interviewing candidates. I have a knack for self learning and usually use Stack Overflow, read articles at Medium, HackerNoon, DEV.TO and HashNode for learning new things and solving technical challenges.
 
 - 🏢 SDE at at [GeekyAnts](https://geekyants.com/vinay-sharma).
 - 🔭 I'm currently developing an E-Sport Mobile Platform and [Rapid React](https://www.npmjs.com/package/rapid-react).

@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile applications. In addition to development I actively participate in activities such as speaking at tech meetups, open source contributions, mentoring junior developers & interviewing candidates. I have a knack for self learning and usually use Stack Overflow, read articles at Medium, HackerNoon, DEV.TO and HashNode for learning new things and solving technical challenges.
 
@@ -15,23 +15,50 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I'm an intermediate music producer on [FL Studio](https://www.image-line.com/)!
 
+### Technologies & Tools
+
+- **Front End**
+  <br>
+  <br>
+  [<img align="left" src=images/front-end/html-5.svg height=30>](https://www.w3schools.com/html/)
+  [<img align="left" src=images/front-end/css-3.svg height=30>](https://www.w3schools.com/css/)
+  [<img align="left" src=images/front-end/sass.svg height=30>](https://sass-lang.com/)
+  [<img align="left" src=images/front-end/bootstrap.svg height=30>](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+  [<img align="left" src=images/front-end/tailwindcss.svg height=30>](https://tailwindcss.com/)
+  [<img align="left" src=images/front-end/ant-design.svg height=30>](https://ant.design/)
+  [<img align="left" src=images/front-end/js.svg height=30>](https://www.w3schools.com/js/DEFAULT.asp)
+  [<img align="left" src=images/front-end/ts.svg height=30>](https://www.typescriptlang.org/)
+  [<img align="left" src=images/front-end/es6.svg height=30>](https://www.w3schools.com/js/js_es6.asp)
+  [<img align="left" src=images/front-end/react.svg height=30>](https://reactjs.org/)
+  [<img align="left" src=images/front-end/react-router.svg height=30>](https://reactrouter.com/)
+  [<img align="left" src=images/front-end/redux.svg height=30>](https://react-redux.js.org/)
+  [<img align="left" src=images/front-end/redux-saga.svg height=30>](https://redux-saga.js.org/)
+  [<img align="left" src=images/front-end/mobx.svg height=30>](https://mobx.js.org/)
+  <br>
+  <br>
+
 ### Tech Talks 🎙️
+
 - [Handling Complex Animations in React Native](https://www.youtube.com/watch?v=tD8vvCzVknE)
 - [Validate JS with Redux Form](https://www.youtube.com/watch?v=mmi_B38DBk0)
 - [Step Sequencer in Howler JS](https://www.youtube.com/watch?v=rpbOlfP66kM)
 
 ## Tech Blogs 📚
+
 - [Introducing React Rapid, a light weight CLI Tool 🛠️ for rapid scaffolding of React apps with CRA under the hood. ⚛️](https://dev.to/vinaysharma14/introducing-react-rapid-a-light-weight-interactive-cli-automation-tool-to-scaffold-react-apps-quickly-2gkn)
 - [How to test production build of React apps locally?](https://www.linkedin.com/pulse/how-test-production-build-react-js-app-locally-vinay-sharma-he-him-/)
 
 ### Most amazing thing I've built 🛠️
+
 [![Rapid React](https://github-readme-stats.vercel.app/api/pin/?username=vinaysharma14&repo=rapid-react&show_owner=true)](https://github.com/vinaysharma14/rapid-react)
 
 ### GitHub Stats 📊
+
 ![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=vinaysharma14&show_icons=true)
 ![Vinay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaysharma14&layout=compact&hide=java)
 
 ### Get in touch 📫
+
 - Email: vinaysharma7811@gmail.com
 - GitHub: https://github.com/vinaysharma14
 - LinkedIn: https://www.linkedin.com/in/vinaysharma-/

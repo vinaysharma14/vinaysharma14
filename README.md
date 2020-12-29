@@ -37,6 +37,19 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
   <br>
   <br>
 
+- **Back End & Cloud Services**
+  <br>
+  <br>
+  [<img align="left" src=images/back-end/node.svg height=30>](https://nodejs.org/en/)
+  [<img align="left" src=images/back-end/express.svg height=30>](https://expressjs.com/)
+  [<img align="left" src=images/back-end/passport.svg height=30>](http://www.passportjs.org/)
+  [<img align="left" src=images/back-end/json.svg height=30>](https://www.json.org/json-en.html)
+  [<img align="left" src=images/back-end/mongodb.svg height=30>](https://www.mongodb.com/)
+  [<img align="left" src=images/cloud/firebase.svg height=30>](https://firebase.google.com/)
+  [<img align="left" src=images/cloud/azure.svg height=30>](https://azure.microsoft.com/)
+  <br>
+  <br>
+
 ### Tech Talks 🎙️
 
 - [Handling Complex Animations in React Native](https://www.youtube.com/watch?v=tD8vvCzVknE)

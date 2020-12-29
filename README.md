@@ -15,7 +15,7 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I'm an intermediate music producer on [FL Studio](https://www.image-line.com/)!
 
-### Technologies & Tools
+## Technologies & Tools
 
 - **Front End**
   <br>
@@ -92,7 +92,7 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
     <br>
     <br>
 
-### Tech Talks 🎙️
+## Tech Talks 🎙️
 
 - [Handling Complex Animations in React Native](https://www.youtube.com/watch?v=tD8vvCzVknE)
 - [Validate JS with Redux Form](https://www.youtube.com/watch?v=mmi_B38DBk0)
@@ -103,16 +103,16 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
 - [Introducing React Rapid, a light weight CLI Tool 🛠️ for rapid scaffolding of React apps with CRA under the hood. ⚛️](https://dev.to/vinaysharma14/introducing-react-rapid-a-light-weight-interactive-cli-automation-tool-to-scaffold-react-apps-quickly-2gkn)
 - [How to test production build of React apps locally?](https://www.linkedin.com/pulse/how-test-production-build-react-js-app-locally-vinay-sharma-he-him-/)
 
-### Most amazing thing I've built 🛠️
+## Most amazing thing I've built 🛠️
 
 [![Rapid React](https://github-readme-stats.vercel.app/api/pin/?username=vinaysharma14&repo=rapid-react&show_owner=true)](https://github.com/vinaysharma14/rapid-react)
 
-### GitHub Stats 📊
+## GitHub Stats 📊
 
 ![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=vinaysharma14&show_icons=true)
 ![Vinay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaysharma14&layout=compact&hide=java)
 
-### Get in touch 📫
+## Get in touch 📫
 
 - Email: vinaysharma7811@gmail.com
 - GitHub: https://github.com/vinaysharma14

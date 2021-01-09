@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile applications. In addition to development I actively participate in activities such as speaking at tech meetups, open source contributions, mentoring junior developers & interviewing candidates. I have a knack for self learning and usually use Stack Overflow, read articles at Medium, HackerNoon, DEV.TO and HashNode for learning new things and solving technical challenges.
+I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile applications. Additionally, I actively participate in peer code reviews, contribute to open source, speak at tech meetups, write tech articles, mentor junior developers and interview candidates. I have a knack for self learning and usually read articles at Medium, HackerNoon, DEV.TO & HashNode and contribute to Stack Overflow regularly. I enjoy being challenged and developing applications with an exponential learning curve.
 
 - 🏢 SDE at at [GeekyAnts](https://geekyants.com/vinay-sharma).
 - 🔭 I'm currently developing an E-Sport Mobile Platform and [Rapid React](https://www.npmjs.com/package/rapid-react).
@@ -102,7 +102,7 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
 - [Validate JS with Redux Form](https://www.youtube.com/watch?v=mmi_B38DBk0)
 - [Step Sequencer in Howler JS](https://www.youtube.com/watch?v=rpbOlfP66kM)
 
-## Tech Blogs 📚
+## Tech Articles 📚
 
 - [Introducing React Rapid, a light weight CLI Tool 🛠️ for rapid scaffolding of React apps with CRA under the hood. ⚛️](https://dev.to/vinaysharma14/introducing-react-rapid-a-light-weight-interactive-cli-automation-tool-to-scaffold-react-apps-quickly-2gkn)
 - [How to test production build of React apps locally?](https://www.linkedin.com/pulse/how-test-production-build-react-js-app-locally-vinay-sharma-he-him-/)

@@ -5,7 +5,7 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
 - 🏢 SDE at at [GeekyAnts](https://geekyants.com/vinay-sharma).
 - 🔭 I'm currently developing an E-Sport Mobile Platform and [Rapid React](https://www.npmjs.com/package/rapid-react).
 - 🌱 I'm currently honing my Full Stack development skills & open source contributions.
-- 🎙 I have presented talks at 3 Tech Meetups and counting!
+- 🎙 I have presented talks at 4 Tech Meetups and counting!
 - 🌍 I'm mostly active in the **React JS, React Native & Node JS Community**.
 - 👯 I'm looking to collaborate on a few Startup ideas & [Rapid React](https://www.npmjs.com/package/rapid-react).
 - ⚙️ I daily use `.html` `.css` `.scss` `.json` `.tsx` `.jsx` `.ts` `.js`
@@ -99,6 +99,7 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
 
 ## Tech Talks 🎙️
 
+- [Introducing Rapid React](https://www.youtube.com/watch?v=339nm9QyHWc&t=3628s)
 - [Handling Complex Animations in React Native](https://www.youtube.com/watch?v=tD8vvCzVknE)
 - [Validate JS with Redux Form](https://www.youtube.com/watch?v=mmi_B38DBk0)
 - [Step Sequencer in Howler JS](https://www.youtube.com/watch?v=rpbOlfP66kM)

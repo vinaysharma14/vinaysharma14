@@ -2,17 +2,18 @@
 
 I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile applications. Additionally, I actively participate in peer code reviews, contribute to open source, speak at tech meetups, write tech articles, mentor junior developers and interview candidates. I have a knack for self learning and usually read articles at Medium, HackerNoon, DEV.TO & HashNode and contribute to [Stack Overflow](https://stackoverflow.com/users/11220479/vinay-sharma?tab=profile) regularly. I enjoy being challenged and developing applications with an exponential learning curve.
 
-- 🏢 SDE at at [MakeMyTrip](https://www.makemytrip.com/).
-- 🏢 Ex SDE at at [GeekyAnts](https://geekyants.com/vinay-sharma).
+- 🏢 SDE [@MakeMyTrip](https://www.makemytrip.com/).
+- 🏢 Ex SDE [@GeekyAnts](https://geekyants.com/vinay-sharma).
+- 🔗 Let's connect [@LinkedIn](https://www.linkedin.com/in/vinaysharma-/)
 - 🔭 I'm currently working on next version of [Rapid React](https://www.npmjs.com/package/rapid-react)!
 - 🌱 I'm currently honing my Full Stack development skills & open source contributions.
 - 🎙 I have presented talks at 4 Tech Meetups and counting!
 - 🌍 I'm mostly active in the **React JS, React Native & Node JS Community**.
-- 👯 I'm looking to collaborate on a few Startup ideas & [Rapid React](https://www.npmjs.com/package/rapid-react).
+- 🤝 I'm looking to collaborate on a few Startup ideas & [Rapid React](https://www.npmjs.com/package/rapid-react).
 - ⚙️ I daily use `.html` `.css` `.scss` `.json` `.tsx` `.jsx` `.ts` `.js`
 - 🥅 2021 Goals: Contributing more to open source.
 - 💬 Ask me about: **Full Stack development**, **Code Architecture**, **UI & UX**, **Public Speaking**.
-- 🤔 Looking for help with an opportunity in **USA/Canada**.
+- 🇨🇦 Looking for help with a Softare Development opportunity in **Canada**.
 - 📄 Find my resume [here](https://docs.google.com/document/d/1vXog-yzGisdJkZ1YaoS7Nmno2GrUVeUlrXunXCBwDCM/edit?usp=sharing).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I'm an intermediate music producer on [FL Studio](https://www.image-line.com/)!

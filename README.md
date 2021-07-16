@@ -34,7 +34,6 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
 - [Introducing React Rapid, a light weight CLI Tool 🛠️ for rapid scaffolding of React apps with CRA under the hood. ⚛️](https://dev.to/vinaysharma14/introducing-react-rapid-a-light-weight-interactive-cli-automation-tool-to-scaffold-react-apps-quickly-2gkn)
 - [How to test production build of React apps locally?](https://www.linkedin.com/pulse/how-test-production-build-react-js-app-locally-vinay-sharma-he-him-/)
 
-
 ## Technologies & Tools 🛠️
 
 - **Front End**
@@ -50,6 +49,7 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
   [<img align="left" src=images/front-end/ts.svg height=30>](https://www.typescriptlang.org/)
   [<img align="left" src=images/front-end/es6.svg height=30>](https://www.w3schools.com/js/js_es6.asp)
   [<img align="left" src=images/front-end/react.svg height=30>](https://reactjs.org/)
+  [<img align="left" src=images/front-end/gatsby.svg height=30>](https://www.gatsbyjs.com/)
   [<img align="left" src=images/front-end/react-router.svg height=30>](https://reactrouter.com/)
   [<img align="left" src=images/front-end/redux.svg height=30>](https://react-redux.js.org/)
   [<img align="left" src=images/front-end/redux-saga.svg height=30>](https://redux-saga.js.org/)
@@ -92,6 +92,7 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
     [<img align="left" src=images/version-control/github.svg height=30>](https://github.com/)
     [<img align="left" src=images/version-control/gitlab.svg height=30>](https://about.gitlab.com/)
     [<img align="left" src=images/version-control/bitbucket.svg height=30>](https://bitbucket.org/)
+    [<img align="left" src=images/version-control/gerrit.png height=30>](https://www.gerritcodereview.com/)
     <br>
     <br>
   - **Issue Tracking & Project Management**

@@ -20,7 +20,7 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
 
 ## Most amazing thing I've built 🚀
 
-[![Rapid React](https://github-readme-stats.vercel.app/api/pin/?username=vinaysharma14&repo=rapid-react&show_owner=true)](https://github.com/vinaysharma14/rapid-react)
+[![Rapid React](https://github-readme-stats.vercel.app/api/pin/?username=vinaysharma14&theme=dark&repo=rapid-react&show_owner=true)](https://github.com/vinaysharma14/rapid-react)
 
 ## Tech Talks 🎙️
 

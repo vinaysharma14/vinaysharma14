@@ -20,7 +20,7 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
 
 ## Most amazing thing I've built 🚀
 
-[![Rapid React](https://github-readme-stats.vercel.app/api/pin/?username=vinaysharma14&theme=algolia&repo=rapid-react&show_owner=true)](https://github.com/vinaysharma14/rapid-react)
+[![Rapid React](https://github-readme-stats.vercel.app/api/pin/?username=vinaysharma14&theme=dark&repo=rapid-react&show_owner=true)](https://github.com/vinaysharma14/rapid-react)
 
 ## Tech Talks 🎙️
 
@@ -115,8 +115,8 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
 
 ## GitHub Stats 📊
 
-![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=vinaysharma14&show_icons=true)
-![Vinay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaysharma14&layout=compact&hide=java)
+![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=vinaysharma14&theme=dark&show_icons=true)
+![Vinay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaysharma14&theme=dark&layout=compact&hide=java)
 
 ## Get in touch 📫
 

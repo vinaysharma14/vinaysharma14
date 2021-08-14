@@ -14,7 +14,7 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
 - 🥅 2021 Goals: Contributing more to open source.
 - 💬 Ask me about: **Full Stack development**, **Code Architecture**, **UI & UX**, **Public Speaking**.
 - 🇨🇦 Looking for help with a Softare Development opportunity in **Canada**.
-- 📄 Find my resume [here](https://docs.google.com/document/d/1vXog-yzGisdJkZ1YaoS7Nmno2GrUVeUlrXunXCBwDCM/edit?usp=sharing).
+- 📄 Find my resume [here](https://docs.google.com/document/d/1vXog-yzGisdJkZ1YaoS7Nmno2GrUVeUlrXunXCBwDCM/export?format=pdf).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I'm an intermediate music producer on [FL Studio](https://www.image-line.com/)!
 

@@ -185,7 +185,7 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
     [![Slack)](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack)](https://slack.com/)
     [![Microsoft Teams)](https://img.shields.io/badge/microsoft%20teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=fff)](https://www.microsoft.com/en-in/microsoft-teams/group-chat-software/)
     [![Zeplin)](https://img.shields.io/badge/zeplin-EE6723?style=for-the-badge&logo=zeplin)](https://zeplin.io/)
-    [![MIRO)](https://img.shields.io/badge/#050038-050038?style=for-the-badge&logo=#050038)](https://miro.com/)
+    [![MIRO)](https://img.shields.io/badge/miro-050038?style=for-the-badge&logo=miro)](https://miro.com/)
     [![Figma)](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)](https://figma.com/)
     [![Slides)](https://img.shields.io/badge/slides-E4637C?style=for-the-badge&logo=slides&logoColor=fff)](https://slides.com/vinaysharma7811)
 

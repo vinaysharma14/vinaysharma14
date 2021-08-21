@@ -49,6 +49,8 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
   [<img align="left" src=images/front-end/ts.svg height=30>](https://www.typescriptlang.org/)
   [<img align="left" src=images/front-end/es6.svg height=30>](https://www.w3schools.com/js/js_es6.asp)
   [<img align="left" src=images/front-end/react.svg height=30>](https://reactjs.org/)
+  <br>
+  <br>
   [<img align="left" src=images/front-end/react.svg height=30>](http://reactnative.dev/)
   [<img align="left" src=images/front-end/gatsby.svg height=30>](https://www.gatsbyjs.com/)
   [<img align="left" src=images/front-end/format-js.svg height=30>](https://formatjs.io/)

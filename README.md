@@ -12,8 +12,8 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
 - 🤝 I'm looking to collaborate on a few Startup ideas & [Rapid React](https://www.npmjs.com/package/rapid-react).
 - ⚙️ I daily use `.html` `.css` `.scss` `.json` `.tsx` `.jsx` `.ts` `.js`
 - 🥅 2021 Goals: Contributing more to open source.
-- 💬 Ask me about: **Full Stack development**, **Code Architecture**, **UI & UX**, **Public Speaking**.
-- 🇨🇦 Looking for help with a Software Development opportunity in **`**.
+- 💬 Let's talk: **Full Stack development**, **Code Architecture**, **UI & UX**, **Public Speaking**.
+- 🇨🇦 Looking for help with a Software Engineer role in **Canada**.
 - 📄 Find my resume [here](https://docs.google.com/document/d/1vXog-yzGisdJkZ1YaoS7Nmno2GrUVeUlrXunXCBwDCM/export?format=pdf).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I'm an intermediate music producer on [FL Studio](https://www.image-line.com/)!

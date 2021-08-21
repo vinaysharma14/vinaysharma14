@@ -171,30 +171,23 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
 
 - **Tools**
 
-  - **Version Control & Issue Tracking**
-    <br>
-    <br>
-    [<img align="left" src=images/version-control/github.svg height=30>](https://github.com/)
-    [<img align="left" src=images/version-control/gitlab.svg height=30>](https://about.gitlab.com/)
-    [<img align="left" src=images/version-control/bitbucket.svg height=30>](https://bitbucket.org/)
-    [<img align="left" src=images/version-control/gerrit.png height=30>](https://www.gerritcodereview.com/)
-    <br>
-    <br>
+  - **Version Control**
+
+    [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)](https://github.com/)
+    [![GitLab](https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab)](https://about.gitlab.com/)
+    [![BitBucket](https://img.shields.io/badge/bitbucket-0052CC?style=for-the-badge&logo=bitbucket)](https://bitbucket.org/)
+    [![Gerrit](https://img.shields.io/badge/gerrit-EEEEEE?style=for-the-badge&logo=gerrit&logoColor=000)](https://www.gerritcodereview.com/)
+
   - **Issue Tracking & Project Management**
-    <br>
-    <br>
-    [<img align="left" src=images/project-management/jira.svg height=30>](https://www.atlassian.com/software/jira)
-    [<img align="left" src=images/project-management/trello.svg height=30>](https://trello.com/)
-    [<img align="left" src=images/project-management/slack.svg height=30>](https://slack.com/)
-    [<img align="left" src=images/project-management/zeplin.svg height=30>](https://zeplin.io/)
-    [<img align="left" src=images/project-management/slides.svg height=30>](https://slides.com/vinaysharma7811)
-    <br>
-    <br>
+
+    [![JIRA)](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira)](https://www.atlassian.com/software/jira)
+    [![Trello)](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello)](https://trello.com/)
+    [![Slack)](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack)](https://slack.com/)
+    [![Zeplin)](https://img.shields.io/badge/zeplin-EE6723?style=for-the-badge&logo=zeplin)](https://zeplin.io/)
+    [![Slides)](https://img.shields.io/badge/slides-E4637C?style=for-the-badge&logo=slides&logoColor=fff)](https://slides.com/vinaysharma7811)
+
   - **Code Editor & Package Manager**
-    <br>
-    <br>
-    [<img align="left" src=images/tools/vs-code.svg height=30>](https://code.visualstudio.com/)
-    [<img align="left" src=images/tools/npm.svg height=30>](https://www.npmjs.com/)
-    [<img align="left" src=images/tools/yarn.svg height=30>](https://yarnpkg.com/)
-    <br>
-    <br>
+
+    [![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/)
+    [![NPM)](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/)
+    [![Yarn)](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=fff)](https://yarnpkg.com/)

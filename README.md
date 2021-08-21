@@ -135,7 +135,7 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
   [![ES6](https://img.shields.io/badge/es6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://www.w3schools.com/js/js_es6.asp)
   [![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=html5&logoColor=fff)](https://www.typescriptlang.org/)
   [![React JS](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000)](https://reactjs.org/)
-  [![React Native](https://img.shields.io/badge/react%20native-61DAFB?style=for-the-badge&logo=react&logoColor=000)](http://reactnative.dev/)
+  [![React Native](https://img.shields.io/badge/react%20native-61DAFB?style=for-the-badge&logo=react&logoColor=000)](https://reactnative.dev/)
   [![Gatsby JS](https://img.shields.io/badge/gatsby%20js-663399?style=for-the-badge&logo=gatsby&logoColor=fff)](https://www.gatsbyjs.com/)
   [![Format JS](https://img.shields.io/badge/format%20js-6F3C97?style=for-the-badge&logo=formatjs&logoColor=fff)](https://formatjs.io/)
   [![React Query](https://img.shields.io/badge/react%20query-FF4154?style=for-the-badge&logo=reacttable&logoColor=fff)](https://react-query.tanstack.com/)
@@ -151,7 +151,7 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
 
   [![Node JS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)](https://nodejs.org/en/)
   [![Express JS](https://img.shields.io/badge/express-000?style=for-the-badge&logo=express&logoColor=fff)](https://expressjs.com/)
-  [![Passport JS](https://img.shields.io/badge/passport%20js-34E27A?style=for-the-badge&logo=passport&logoColor=fff)](http://www.passportjs.org/)
+  [![Passport JS](https://img.shields.io/badge/passport%20js-34E27A?style=for-the-badge&logo=passport&logoColor=fff)](https://www.passportjs.org/)
   [![JSON](https://img.shields.io/badge/json-000?style=for-the-badge&logo=json&logoColor=fff)](https://www.json.org/json-en.html)
   [![MongoDB](https://img.shields.io/badge/mongo%20db-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)](https://www.mongodb.com/)
   [![Mongoose JS](https://img.shields.io/badge/mongoose%20js-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)](https://mongoosejs.com/)
@@ -159,18 +159,15 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
   [![Azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=fff)](https://azure.microsoft.com/)
 
 - **Utils**
-  <br>
-  <br>
-  [<img align="left" src=images/utils/babel.svg height=30>](https://babeljs.io/)
-  [<img align="left" src=images/utils/webpack.svg height=30>](https://webpack.js.org/)
-  [<img align="left" src=images/utils/prettier.svg height=30>](https://prettier.io/)
-  [<img align="left" src=images/utils/eslint.svg height=30>](https://eslint.org/)
-  [<img align="left" src=images/utils/jest.svg height=30>](https://jestjs.io/)
-  [<img align="left" src=images/utils/lodash.svg height=30>](https://lodash.com/)
-  [<img align="left" src=images/utils/momentjs.svg height=30>](https://momentjs.com/)
-  [<img align="left" src=images/utils/terminal.svg height=30>](https://ohmyz.sh/)
-  <br>
-  <br>
+
+  [![Babel](https://img.shields.io/badge/babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=000)](https://babeljs.io/)
+  [![Webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=000)](https://webpack.js.org/)
+  [![Prettier](https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=node.js&logoColor=000)](https://prettier.io/)
+  [![ESLint](https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=node.js&logoColor=fff)](https://eslint.org/)
+  [![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)](https://jestjs.io/)
+  [![Lodash](https://img.shields.io/badge/lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=fff)](https://lodash.com/)
+  [![Moment JS](https://img.shields.io/badge/moment%20js-376660?style=for-the-badge&logo=momentjs&logoColor=fff)](https://momentjs.com/)
+  [![Oh My Zsh](https://img.shields.io/badge/oh%20my%20zsh-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=fff)](https://ohmyz.sh/)
 
 - **Tools**
 

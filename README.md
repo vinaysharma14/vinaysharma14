@@ -148,17 +148,15 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
   [![MobX State Tree](https://img.shields.io/badge/mobx%20state%20tree-FF7102?style=for-the-badge&logo=mobxstatetree&logoColor=fff)](https://mobx-state-tree.js.org/)
 
 - **Back End & Cloud Services**
-  <br>
-  <br>
-  [<img align="left" src=images/back-end/node.svg height=30>](https://nodejs.org/en/)
-  [<img align="left" src=images/back-end/express.svg height=30>](https://expressjs.com/)
-  [<img align="left" src=images/back-end/passport.svg height=30>](http://www.passportjs.org/)
-  [<img align="left" src=images/back-end/json.svg height=30>](https://www.json.org/json-en.html)
-  [<img align="left" src=images/back-end/mongodb.svg height=30>](https://www.mongodb.com/)
-  [<img align="left" src=images/cloud/firebase.svg height=30>](https://firebase.google.com/)
-  [<img align="left" src=images/cloud/azure.svg height=30>](https://azure.microsoft.com/)
-  <br>
-  <br>
+
+  [![Node JS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)](https://nodejs.org/en/)
+  [![Express JS](https://img.shields.io/badge/express-000?style=for-the-badge&logo=express&logoColor=fff)](https://expressjs.com/)
+  [![Passport JS](https://img.shields.io/badge/passport%20js-34E27A?style=for-the-badge&logo=passport&logoColor=fff)](http://www.passportjs.org/)
+  [![JSON](https://img.shields.io/badge/json-000?style=for-the-badge&logo=json&logoColor=fff)](https://www.json.org/json-en.html)
+  [![MongoDB](https://img.shields.io/badge/mongo%20db-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)](https://www.mongodb.com/)
+  [![Mongoose JS](https://img.shields.io/badge/mongoose%20js-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)](https://mongoosejs.com/)
+  [![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)](https://firebase.google.com/)
+  [![Azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=fff)](https://azure.microsoft.com/)
 
 - **Utils**
   <br>

@@ -22,6 +22,16 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
 
 [![Rapid React](https://github-readme-stats.vercel.app/api/pin/?username=vinaysharma14&repo=rapid-react&show_owner=true&bg_color=0d1117&&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e&border_color=21262d)](https://github.com/vinaysharma14/rapid-react)
 
+## Some Interesting Figures 📊
+
+![Vinay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaysharma14&layout=compact&bg_color=0d1117&&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e&border_color=21262d)
+
+![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=vinaysharma14&show_icons=true&bg_color=0d1117&&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e&border_color=21262d)
+
+<!-- https://git.io/streak-stats -->
+
+![Vinay's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinaysharma14&theme=dark&background=0D1117&border=21262D&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=c9d1d9&sideLabels=c9d1d9&currStreakLabel=c9d1d9&currStreakNum=c9d1d9&dates=8b949e)
+
 ## Tech Talks 🎙️
 
 - [Introducing Rapid React](https://www.youtube.com/watch?v=339nm9QyHWc&t=3628s)
@@ -120,11 +130,6 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
     [<img align="left" src=images/tools/yarn.svg height=30>](https://yarnpkg.com/)
     <br>
     <br>
-
-## GitHub Stats 📊
-
-![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=vinaysharma14&show_icons=true&bg_color=0d1117&&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e&border_color=21262d)
-![Vinay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaysharma14&layout=compact&bg_color=0d1117&&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e&border_color=21262d)
 
 ## Get in touch 📫
 

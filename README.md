@@ -52,6 +52,7 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
   [<img align="left" src=images/front-end/react.svg height=30>](http://reactnative.dev/)
   [<img align="left" src=images/front-end/gatsby.svg height=30>](https://www.gatsbyjs.com/)
   [<img align="left" src=images/front-end/format-js.svg height=30>](https://formatjs.io/)
+  [<img align="left" src=images/front-end/react-query.svg height=30>](https://react-query.tanstack.com/)
   [<img align="left" src=images/front-end/react-router.svg height=30>](https://reactrouter.com/)
   [<img align="left" src=images/front-end/redux.svg height=30>](https://react-redux.js.org/)
   [<img align="left" src=images/front-end/redux.svg height=30>](https://redux-toolkit.js.org/)

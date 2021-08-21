@@ -191,7 +191,7 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
 
 ## Get in touch 📫
 
-- Email: vinaysharma7811@gmail.com
-- GitHub: https://github.com/vinaysharma14
-- LinkedIn: https://www.linkedin.com/in/vinaysharma-/
-- Stack Overflow: https://stackoverflow.com/users/11220479/vinay-sharma?tab=profile
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)](https://github.com/vinaysharma14/)
+[![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:vinaysharma7811@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinaysharma-/)
+[![StackOverflow](https://img.shields.io/badge/stackoverflow-F58025?style=for-the-badge&logo=StackOverflow&logoColor=fff)](https://stackoverflow.com/users/11220479/vinay-sharma?tab=profile)

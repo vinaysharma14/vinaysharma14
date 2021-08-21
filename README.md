@@ -34,10 +34,68 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
 
 ## Tech Talks 🎙️
 
-- [Introducing Rapid React](https://www.youtube.com/watch?v=339nm9QyHWc&t=3628s)
-- [Handling Complex Animations in React Native](https://www.youtube.com/watch?v=tD8vvCzVknE)
-- [Validate JS with Redux Form](https://www.youtube.com/watch?v=mmi_B38DBk0)
-- [Step Sequencer in Howler JS](https://www.youtube.com/watch?v=rpbOlfP66kM)
+<!-- https://stackoverflow.com/a/2068371/11220479 -->
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=r2aai7oG69Q">
+          <img width="140px" src="https://i3.ytimg.com/vi/r2aai7oG69Q/mqdefault.jpg">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.youtube.com/watch?v=r2aai7oG69Q">
+          Introducing Rapid React
+        </a>
+        <br />
+        Mar 17, 2021
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=tD8vvCzVknE">
+          <img width="140px" src="https://i3.ytimg.com/vi/tD8vvCzVknE/mqdefault.jpg">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.youtube.com/watch?v=tD8vvCzVknE">
+          Complex Animations in React Native
+        </a>
+        <br />
+        Jul 2, 2020
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=mmi_B38DBk0">
+          <img width="140px" src="https://i3.ytimg.com/vi/mmi_B38DBk0/mqdefault.jpg">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.youtube.com/watch?v=mmi_B38DBk0">
+          Validate JS with Redux Form
+        </a>
+        <br />
+        Jan 17, 2020
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=rpbOlfP66kM">
+          <img width="140px" src="https://i3.ytimg.com/vi/rpbOlfP66kM/mqdefault.jpg">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.youtube.com/watch?v=rpbOlfP66kM">
+          Step Sequencer in Howler JS
+        </a>
+        <br />
+        Aug 1, 2019
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Tech Articles 📚
 

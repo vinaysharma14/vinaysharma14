@@ -1,5 +1,10 @@
 # Hi there 👋🏻
 
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)](https://github.com/vinaysharma14/)
+[![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:vinaysharma7811@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinaysharma-/)
+[![StackOverflow](https://img.shields.io/badge/stackoverflow-F58025?style=for-the-badge&logo=StackOverflow&logoColor=fff)](https://stackoverflow.com/users/11220479/vinay-sharma?tab=profile)
+
 I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile applications. Additionally, I actively participate in peer code reviews, contribute to open source, speak at tech meetups, write tech articles, mentor junior developers and interview candidates. I have a knack for self learning and usually read articles at Medium, HackerNoon, DEV.TO & HashNode and contribute to [Stack Overflow](https://stackoverflow.com/users/11220479/vinay-sharma?tab=profile) regularly. I enjoy being challenged and developing applications with an exponential learning curve.
 
 - 🏢 SWE [@MakeMyTrip](https://www.makemytrip.com/).
@@ -188,10 +193,3 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
     [<img align="left" src=images/tools/yarn.svg height=30>](https://yarnpkg.com/)
     <br>
     <br>
-
-## Get in touch 📫
-
-[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)](https://github.com/vinaysharma14/)
-[![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:vinaysharma7811@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinaysharma-/)
-[![StackOverflow](https://img.shields.io/badge/stackoverflow-F58025?style=for-the-badge&logo=StackOverflow&logoColor=fff)](https://stackoverflow.com/users/11220479/vinay-sharma?tab=profile)

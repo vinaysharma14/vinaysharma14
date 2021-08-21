@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋🏻
 
 I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile applications. Additionally, I actively participate in peer code reviews, contribute to open source, speak at tech meetups, write tech articles, mentor junior developers and interview candidates. I have a knack for self learning and usually read articles at Medium, HackerNoon, DEV.TO & HashNode and contribute to [Stack Overflow](https://stackoverflow.com/users/11220479/vinay-sharma?tab=profile) regularly. I enjoy being challenged and developing applications with an exponential learning curve.
 

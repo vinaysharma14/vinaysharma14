@@ -124,32 +124,27 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
 ## Technologies & Tools 🛠️
 
 - **Front End**
-  <br>
-  <br>
-  [<img align="left" src=images/front-end/html-5.svg height=30>](https://www.w3schools.com/html/)
-  [<img align="left" src=images/front-end/css-3.svg height=30>](https://www.w3schools.com/css/)
-  [<img align="left" src=images/front-end/sass.svg height=30>](https://sass-lang.com/)
-  [<img align="left" src=images/front-end/bootstrap.svg height=30>](https://getbootstrap.com/)
-  [<img align="left" src=images/front-end/tailwindcss.svg height=30>](https://tailwindcss.com/)
-  [<img align="left" src=images/front-end/ant-design.svg height=30>](https://ant.design/)
-  [<img align="left" src=images/front-end/js.svg height=30>](https://www.w3schools.com/js/DEFAULT.asp)
-  [<img align="left" src=images/front-end/ts.svg height=30>](https://www.typescriptlang.org/)
-  [<img align="left" src=images/front-end/es6.svg height=30>](https://www.w3schools.com/js/js_es6.asp)
-  [<img align="left" src=images/front-end/react.svg height=30>](https://reactjs.org/)
-  <br>
-  <br>
-  [<img align="left" src=images/front-end/react.svg height=30>](http://reactnative.dev/)
-  [<img align="left" src=images/front-end/gatsby.svg height=30>](https://www.gatsbyjs.com/)
-  [<img align="left" src=images/front-end/format-js.svg height=30>](https://formatjs.io/)
-  [<img align="left" src=images/front-end/react-query.svg height=30>](https://react-query.tanstack.com/)
-  [<img align="left" src=images/front-end/react-router.svg height=30>](https://reactrouter.com/)
-  [<img align="left" src=images/front-end/redux.svg height=30>](https://react-redux.js.org/)
-  [<img align="left" src=images/front-end/redux.svg height=30>](https://redux-toolkit.js.org/)
-  [<img align="left" src=images/front-end/redux-saga.svg height=30>](https://redux-saga.js.org/)
-  [<img align="left" src=images/front-end/redux-saga.svg height=30>](https://github.com/reduxjs/redux-thunk)
-  [<img align="left" src=images/front-end/mobx.svg height=30>](https://mobx.js.org/)
-  <br>
-  <br>
+
+  [![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)](https://www.w3schools.com/html/)
+  [![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)](https://www.w3schools.com/css/)
+  [![SASS](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=fff)](https://sass-lang.com/)
+  [![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=html5&logoColor=fff)](https://getbootstrap.com/)
+  [![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=fff)](https://tailwindcss.com/)
+  [![Ant Design](https://img.shields.io/badge/ant%20design-0170FE?style=for-the-badge&logo=antdesign&logoColor=fff)](https://ant.design/)
+  [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://www.w3schools.com/js/DEFAULT.asp)
+  [![ES6](https://img.shields.io/badge/es6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://www.w3schools.com/js/js_es6.asp)
+  [![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=html5&logoColor=fff)](https://www.typescriptlang.org/)
+  [![React JS](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000)](https://reactjs.org/)
+  [![React Native](https://img.shields.io/badge/react%20native-61DAFB?style=for-the-badge&logo=react&logoColor=000)](http://reactnative.dev/)
+  [![Gatsby JS](https://img.shields.io/badge/gatsby%20js-663399?style=for-the-badge&logo=gatsby&logoColor=fff)](https://www.gatsbyjs.com/)
+  [![Format JS](https://img.shields.io/badge/format%20js-6F3C97?style=for-the-badge&logo=formatjs&logoColor=fff)](https://formatjs.io/)
+  [![React Query](https://img.shields.io/badge/react%20query-FF4154?style=for-the-badge&logo=reacttable&logoColor=fff)](https://react-query.tanstack.com/)
+  [![React Router](https://img.shields.io/badge/react%20router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=fff)](https://reactrouter.com/)
+  [![React Redux](https://img.shields.io/badge/react%20redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff)](https://react-redux.js.org/)
+  [![Redux Toolkit](https://img.shields.io/badge/redux%20toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=fff)](https://redux-toolkit.js.org/)
+  [![Redux Saga](https://img.shields.io/badge/redux%20saga-89D96D?style=for-the-badge&logo=redux-saga&logoColor=000)](https://redux-saga.js.org/)
+  [![Redux Thunk](https://img.shields.io/badge/redux%20thunk-89D96D?style=for-the-badge&logo=redux-saga&logoColor=000)](https://github.com/reduxjs/redux-thunk)
+  [![MobX](https://img.shields.io/badge/mobx-FF9955?style=for-the-badge&logo=mobx&logoColor=fff)](https://mobx.js.org/)
 
 - **Back End & Cloud Services**
   <br>

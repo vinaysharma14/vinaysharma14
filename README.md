@@ -20,7 +20,7 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
 
 ## Most amazing thing I've built 🚀
 
-[![Rapid React](https://github-readme-stats.vercel.app/api/pin/?username=vinaysharma14&theme=dark&repo=rapid-react&show_owner=true)](https://github.com/vinaysharma14/rapid-react)
+[![Rapid React](https://github-readme-stats.vercel.app/api/pin/?username=vinaysharma14&repo=rapid-react&show_owner=true&bg_color=0d1117&&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e&border_color=21262d)](https://github.com/vinaysharma14/rapid-react)
 
 ## Tech Talks 🎙️
 
@@ -123,8 +123,8 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
 
 ## GitHub Stats 📊
 
-![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=vinaysharma14&theme=dark&show_icons=true)
-![Vinay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaysharma14&theme=dark&layout=compact&hide=java)
+![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=vinaysharma14&show_icons=true&bg_color=0d1117&&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e&border_color=21262d)
+![Vinay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaysharma14&layout=compact&bg_color=0d1117&&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e&border_color=21262d)
 
 ## Get in touch 📫
 

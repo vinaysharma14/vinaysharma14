@@ -182,17 +182,17 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
 
   - **Issue Tracking & Project Management**
 
-    [![JIRA)](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira)](https://www.atlassian.com/software/jira)
-    [![Trello)](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello)](https://trello.com/)
-    [![Slack)](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack)](https://slack.com/)
-    [![Microsoft Teams)](https://img.shields.io/badge/microsoft%20teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=fff)](https://www.microsoft.com/en-in/microsoft-teams/group-chat-software/)
-    [![Zeplin)](https://img.shields.io/badge/zeplin-EE6723?style=for-the-badge&logo=zeplin)](https://zeplin.io/)
-    [![MIRO)](https://img.shields.io/badge/miro-050038?style=for-the-badge&logo=miro)](https://miro.com/)
-    [![Figma)](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)](https://figma.com/)
-    [![Slides)](https://img.shields.io/badge/slides-E4637C?style=for-the-badge&logo=slides&logoColor=fff)](https://slides.com/vinaysharma7811)
+    [![JIRA](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira)](https://www.atlassian.com/software/jira)
+    [![Trello](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello)](https://trello.com/)
+    [![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack)](https://slack.com/)
+    [![Microsoft Teams](https://img.shields.io/badge/microsoft%20teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=fff)](https://www.microsoft.com/en-in/microsoft-teams/group-chat-software/)
+    [![Zeplin](https://img.shields.io/badge/zeplin-EE6723?style=for-the-badge&logo=zeplin)](https://zeplin.io/)
+    [![MIRO](https://img.shields.io/badge/miro-050038?style=for-the-badge&logo=miro)](https://miro.com/)
+    [![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)](https://figma.com/)
+    [![Slides](https://img.shields.io/badge/slides-E4637C?style=for-the-badge&logo=slides&logoColor=fff)](https://slides.com/vinaysharma7811)
 
   - **Code Editor & Package Manager**
 
     [![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/)
-    [![NPM)](https://img.shields.io/badge/npm-C12127?style=for-the-badge&logo=npm)](https://www.npmjs.com/)
-    [![Yarn)](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=fff)](https://yarnpkg.com/)
+    [![NPM](https://img.shields.io/badge/npm-C12127?style=for-the-badge&logo=npm)](https://www.npmjs.com/)
+    [![Yarn](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=fff)](https://yarnpkg.com/)

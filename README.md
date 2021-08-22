@@ -130,7 +130,7 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
   [![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)](https://www.w3schools.com/html/)
   [![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)](https://www.w3schools.com/css/)
   [![SASS](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=fff)](https://sass-lang.com/)
-  [![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=html5&logoColor=fff)](https://getbootstrap.com/)
+  [![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)](https://getbootstrap.com/)
   [![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=fff)](https://tailwindcss.com/)
   [![Ant Design](https://img.shields.io/badge/ant%20design-0170FE?style=for-the-badge&logo=antdesign&logoColor=fff)](https://ant.design/)
   [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://www.w3schools.com/js/DEFAULT.asp)

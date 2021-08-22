@@ -3,8 +3,8 @@
 </h1>
 
 <div align="center">
-  <a href="https://github.com/vinaysharma14/">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github">
+  <a href="https://www.npmjs.com/package/rapid-react">
+    <img src="https://img.shields.io/badge/rapid%20react-61DAFB?style=for-the-badge&logo=react&logoColor=333">
   </a>
   <a href="https://www.linkedin.com/in/vinaysharma-/">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin">
@@ -136,8 +136,8 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
   [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://www.w3schools.com/js/DEFAULT.asp)
   [![ES6](https://img.shields.io/badge/es6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://www.w3schools.com/js/js_es6.asp)
   [![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=html5&logoColor=fff)](https://www.typescriptlang.org/)
-  [![React JS](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000)](https://reactjs.org/)
-  [![React Native](https://img.shields.io/badge/react%20native-61DAFB?style=for-the-badge&logo=react&logoColor=000)](https://reactnative.dev/)
+  [![React JS](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=333)](https://reactjs.org/)
+  [![React Native](https://img.shields.io/badge/react%20native-61DAFB?style=for-the-badge&logo=react&logoColor=333)](https://reactnative.dev/)
   [![Gatsby JS](https://img.shields.io/badge/gatsby%20js-663399?style=for-the-badge&logo=gatsby&logoColor=fff)](https://www.gatsbyjs.com/)
   [![Format JS](https://img.shields.io/badge/format%20js-6F3C97?style=for-the-badge&logo=formatjs&logoColor=fff)](https://formatjs.io/)
   [![React Query](https://img.shields.io/badge/react%20query-FF4154?style=for-the-badge&logo=reacttable&logoColor=fff)](https://react-query.tanstack.com/)

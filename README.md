@@ -6,14 +6,17 @@
   <a href="https://github.com/vinaysharma14/">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github">
   </a>
-  <a href="mailto:vinaysharma7811@gmail.com">
-    <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff">
-  </a>
   <a href="https://www.linkedin.com/in/vinaysharma-/">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://stackoverflow.com/users/11220479/vinay-sharma?tab=profile">
     <img src="https://img.shields.io/badge/stackoverflow-F58025?style=for-the-badge&logo=StackOverflow&logoColor=fff">
+  </a>
+  <a href="mailto:vinaysharma7811@gmail.com">
+    <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff">
+  </a>
+  <a href="https://docs.google.com/document/d/1vXog-yzGisdJkZ1YaoS7Nmno2GrUVeUlrXunXCBwDCM/export?format=pdf">
+    <img src="https://img.shields.io/badge/resume-blue?style=for-the-badge&logo=readthedocs&logoColor=fff">
   </a>
 </div>
 
@@ -33,7 +36,6 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
 - 🥅 2021 Goals: Contributing more to open source.
 - 💬 Let's talk: **Full Stack development**, **Code Architecture**, **UI & UX**, **Public Speaking**.
 - 🇨🇦 Looking for help with a Software Engineer role in **Canada**.
-- 📄 Find my resume [here](https://docs.google.com/document/d/1vXog-yzGisdJkZ1YaoS7Nmno2GrUVeUlrXunXCBwDCM/export?format=pdf).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I'm an intermediate music producer on [FL Studio](https://www.image-line.com/)!
 

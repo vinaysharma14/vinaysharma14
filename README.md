@@ -139,7 +139,7 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
   [![React JS](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=333)](https://reactjs.org/)
   [![React Native](https://img.shields.io/badge/react%20native-61DAFB?style=for-the-badge&logo=react&logoColor=333)](https://reactnative.dev/)
   [![Gatsby JS](https://img.shields.io/badge/gatsby%20js-663399?style=for-the-badge&logo=gatsby&logoColor=fff)](https://www.gatsbyjs.com/)
-  [![Format JS](https://img.shields.io/badge/format%20js-6F3C97?style=for-the-badge&logo=formatjs&logoColor=fff)](https://formatjs.io/)
+  [![Format JS](icons/format-js.svg)](https://formatjs.io/)
   [![React Query](https://img.shields.io/badge/react%20query-FF4154?style=for-the-badge&logo=reacttable&logoColor=fff)](https://react-query.tanstack.com/)
   [![React Router](https://img.shields.io/badge/react%20router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=fff)](https://reactrouter.com/)
   [![React Redux](https://img.shields.io/badge/react%20redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff)](https://react-redux.js.org/)
@@ -167,8 +167,8 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
   [![Prettier](https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=000)](https://prettier.io/)
   [![ESLint](https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=fff)](https://eslint.org/)
   [![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)](https://jestjs.io/)
-  [![Lodash](https://img.shields.io/badge/lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=fff)](https://lodash.com/)
-  [![Moment JS](https://img.shields.io/badge/moment%20js-376660?style=for-the-badge&logo=momentjs&logoColor=fff)](https://momentjs.com/)
+  [![Lodash](icons/lodash.svg)](https://lodash.com/)
+  [![Moment JS](icons/moment-js.svg)](https://momentjs.com/)
   [![Oh My Zsh](https://img.shields.io/badge/oh%20my%20zsh-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=fff)](https://ohmyz.sh/)
 
 - **Tools**
@@ -186,7 +186,7 @@ I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile ap
     [![Trello](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello)](https://trello.com/)
     [![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack)](https://slack.com/)
     [![Microsoft Teams](https://img.shields.io/badge/microsoft%20teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=fff)](https://www.microsoft.com/en-in/microsoft-teams/group-chat-software/)
-    [![Zeplin](https://img.shields.io/badge/zeplin-EE6723?style=for-the-badge&logo=zeplin)](https://zeplin.io/)
+    [![Zeplin](icons/zeplin.svg)](https://zeplin.io/)
     [![MIRO](https://img.shields.io/badge/miro-050038?style=for-the-badge&logo=miro)](https://miro.com/)
     [![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)](https://figma.com/)
     [![Slides](https://img.shields.io/badge/slides-E4637C?style=for-the-badge&logo=slides&logoColor=fff)](https://slides.com/vinaysharma7811)

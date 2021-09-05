@@ -22,7 +22,13 @@
 
 <br>
 
-I am Vinay. Thanks for dropping by! I love developing Full Stack Web & Mobile applications. Additionally, I actively participate in peer code reviews, contribute to open source, speak at tech meetups, write tech articles, mentor junior developers and interview candidates. I have a knack for self learning and usually read articles at Medium, HackerNoon, DEV.TO & HashNode and contribute to [Stack Overflow](https://stackoverflow.com/users/11220479/vinay-sharma?tab=profile) regularly. I enjoy being challenged and developing applications with an exponential learning curve.
+I am Vinay. Thanks for dropping by! I love developing **Fullstack Mobile and Web Apps** leveraging **TypeScript**, **React**, **React** **Native**, **Node.js**, etc.
+
+At present, I work in **cross functional** teams closely with product managers, designers, and testers in **agile sprints** with daily scrum and handle the **development**, **debugging**, **deployment**, **documentation** and **post deployment monitoring** of our web and mobile app.
+
+Additionally, I **actively** participate in code reviews & contribute to open source and **passively** speak at tech meetups, write tech articles, mentor junior developers, & interview candidates.
+
+I have a **knack for self learning** and usually read articles at [Medium](https://medium.com/@vinay-sharma). I enjoy being challenged with an exponential learning curve, so I quite often solve real world problems on [Stack Overflow](https://stackoverflow.com/users/11220479/vinay-sharma?tab=profile).
 
 - 🏢 SWE [@MakeMyTrip](https://www.makemytrip.com/).
 - 🏢 Ex SWE [@GeekyAnts](https://geekyants.com/vinay-sharma).

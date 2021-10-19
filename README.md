@@ -169,7 +169,7 @@ Additionally, I **actively** participate in **code reviews** & contribute to **o
   [![Prettier](https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=000)](https://prettier.io/)
   [![ESLint](https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=fff)](https://eslint.org/)
   [![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)](https://jestjs.io/)
-  [![Lodash](icons/lodash.svg)](https://lodash.com/)
+  [![Lodash](https://img.shields.io/badge/lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=fff)](https://lodash.com/)
   [![Moment JS](icons/moment-js.svg)](https://momentjs.com/)
   [![Oh My Zsh](https://img.shields.io/badge/oh%20my%20zsh-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=fff)](https://ohmyz.sh/)
 

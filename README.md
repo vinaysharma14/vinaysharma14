@@ -171,6 +171,7 @@ Additionally, I **actively** participate in **code reviews** & contribute to **o
   [![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)](https://jestjs.io/)
   [![Lodash](https://img.shields.io/badge/lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=fff)](https://lodash.com/)
   [![Moment JS](icons/moment-js.svg)](https://momentjs.com/)
+  [![iTerm2](https://img.shields.io/badge/iTerm2-000?style=for-the-badge&logo=iterm2&logoColor=fff)](https://iterm2.com/)
   [![Oh My Zsh](https://img.shields.io/badge/oh%20my%20zsh-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=fff)](https://ohmyz.sh/)
 
 - **Tools**

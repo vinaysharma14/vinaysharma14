@@ -138,6 +138,7 @@ Additionally, I **actively** participate in **code reviews** & contribute to **o
   [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://www.w3schools.com/js/DEFAULT.asp)
   [![ES6](https://img.shields.io/badge/es6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://www.w3schools.com/js/js_es6.asp)
   [![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
+  [![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=fff)](https://graphql.org/)
   [![React JS](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=333)](https://reactjs.org/)
   [![React Native](https://img.shields.io/badge/react%20native-61DAFB?style=for-the-badge&logo=react&logoColor=333)](https://reactnative.dev/)
   [![Gatsby JS](https://img.shields.io/badge/gatsby%20js-663399?style=for-the-badge&logo=gatsby&logoColor=fff)](https://www.gatsbyjs.com/)

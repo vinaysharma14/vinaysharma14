@@ -29,7 +29,7 @@ Additionally, I **actively** participate in **code reviews** & contribute to **o
 - 🏢 Software Engineer [@MakeMyTrip](https://www.makemytrip.com/).
 - 🏢 Ex Software Engineer [@GeekyAnts](https://geekyants.com/vinay-sharma).
 - 🔗 Let's connect [@LinkedIn](https://www.linkedin.com/in/vinaysharma-/)
-- 🔭 I'm currently working on next version of [Rapid React](https://www.npmjs.com/package/rapid-react)!
+- 🔭 I'm currently learning **Java 8**!
 - 🌱 I'm currently honing my Full Stack development skills & open source contributions.
 - 🎙 I have presented talks at 4 Tech Meetups and counting!
 - 🌍 I'm mostly active in the **React JS, React Native & Node JS Community**.

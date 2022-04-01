@@ -15,7 +15,7 @@
   <a href="mailto:vinaysharma7811@gmail.com">
     <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff">
   </a>
-  <a href="https://docs.google.com/document/d/1PT7pksHJ7O0uJya30x4ul6bt05vX0gzeimlRVhrrPNo/export?format=pdf">
+  <a href="https://docs.google.com/document/d/1bLpKtph61ovaxPs-glGWVTrLA015ERjtEBKdGZgv4gI/export?format=pdf">
     <img src="https://img.shields.io/badge/resume-blue?style=for-the-badge&logo=readthedocs&logoColor=fff">
   </a>
 </div>

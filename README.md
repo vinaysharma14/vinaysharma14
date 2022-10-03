@@ -22,12 +22,12 @@
 
 <br>
 
-I am Vinay. Thanks for dropping by! I love developing **Fullstack Mobile and Web Apps** leveraging **TypeScript**, **React**, **React** **Native**, **Node.js**, etc. At present, I work in **cross functional** teams closely with product managers, designers, and testers in **agile sprints** with **daily scrum** and handle the **development**, **debugging**, **deployment**, **documentation** and **post deployment monitoring** of our user-facing Mobile App, Mobile Web, Desktop Web and a GraphQL Server Gateway.
+I am Vinay. Thanks for dropping by! I love developing **Fullstack Mobile and Web Apps** leveraging **TypeScript**, **React**, **React** **Native**, **Node.js**, etc. At present, I work in **cross functional** teams closely with product managers, designers, and testers in **agile sprints** with **daily scrum** and handle the **development**, **debugging**, **deployment**, **documentation** and **post deployment monitoring** of our user-facing application.
 
 Additionally, I **actively** participate in **code reviews** & contribute to **open source** and **passively** speak at tech meetups, write tech articles, mentor junior developers, & interview candidates. I have a **knack for self learning** and usually read articles at [Medium](https://medium.com/@vinay-sharma). I enjoy being challenged with an exponential learning curve, so I quite often solve real world problems on [Stack Overflow](https://stackoverflow.com/users/11220479/vinay-sharma?tab=profile).
 
-- 🏢 Software Engineer [@MakeMyTrip](https://www.makemytrip.com/).
-- 🏢 Ex Software Engineer [@GeekyAnts](https://geekyants.com/vinay-sharma).
+- 🏢 Software Engineer [@AWS](https://aws.amazon.com/sagemaker/).
+- 🏢 Ex Software Engineer [@MakeMyTrip](https://www.makemytrip.com/).
 - 🔗 Let's connect [@LinkedIn](https://www.linkedin.com/in/vinaysharma-/)
 - 🔭 I'm currently learning **Java 8**!
 - 🌱 I'm currently honing my Full Stack development skills & open source contributions.

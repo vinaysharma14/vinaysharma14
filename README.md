@@ -26,7 +26,7 @@ I am Vinay. Thanks for dropping by! I love developing **Fullstack Mobile and Web
 
 Additionally, I **actively** participate in **code reviews** & contribute to **open source** and **passively** speak at tech meetups, write tech articles, mentor junior developers, & interview candidates. I have a **knack for self learning** and usually read articles at [Medium](https://medium.com/@vinay-sharma). I enjoy being challenged with an exponential learning curve, so I quite often solve real world problems on [Stack Overflow](https://stackoverflow.com/users/11220479/vinay-sharma?tab=profile).
 
-- 🏢 Software Engineer [@AWS](https://aws.amazon.com/sagemaker/).
+- 🏢 Software Engineer [@Amazon (AWS)](https://aws.amazon.com/sagemaker/).
 - 🏢 Ex Software Engineer [@MakeMyTrip](https://www.makemytrip.com/).
 - 🔗 Let's connect [@LinkedIn](https://www.linkedin.com/in/vinaysharma-/)
 - 🔭 I'm currently learning **Java 8**!
